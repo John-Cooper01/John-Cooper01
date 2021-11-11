@@ -1,5 +1,7 @@
-##🏻‍💻 A little bit about me
+## A little bit about me
+
 Hi there 👋
+
 I'm Jhonatas A. Santos,
 
 My favourites tools: <img src="https://i.ibb.co/4RHMmLQ/react.png" width="20"/> <b>React Js</b>, <img src="https://i.ibb.co/PZ2XZgr/ts.png" width="20"/> <b>TypeScript</b>, <img src="https://ibb.co/RHZh6z1" width="20"/> <b>Next Js</b>
