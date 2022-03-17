@@ -8,7 +8,7 @@ Hi there 👋, I'm Jhonatas A. Santos.
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=John-Cooper01&layout=compact&langs_count=16&theme=dark"/>
 </div>
 
-My favourites tools: <img src="https://i.ibb.co/4RHMmLQ/react.png" width="20"/> <b>React Js</b>, <img src="https://i.ibb.co/PZ2XZgr/ts.png" width="20"/> <b>TypeScript</b>, <img src="https://i.ibb.co/LhK60DB/next-js-logo-8-FCFF51-DD2-seeklogo-com.png" width="20"/> <b>Next Js</b>
+My favourites tools: <img src="https://i.ibb.co/4RHMmLQ/react.png" width="30"/> <b>React Js</b>, <img src="https://i.ibb.co/PZ2XZgr/ts.png" width="30"/> <b>TypeScript</b>, <img src="https://i.ibb.co/LhK60DB/next-js-logo-8-FCFF51-DD2-seeklogo-com.png" width="30"/> <b>Next Js</b>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Jhonatas%20A.%20Santos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jhonatas-a-santos-a11a3b199/)](https://www.linkedin.com/in/jhonatas-a-santos-a11a3b199/)
 
